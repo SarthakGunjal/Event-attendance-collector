@@ -1,0 +1,27 @@
+body {
+    background-color: lightgreen;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: lightgreen;
+    padding-top:120px;
+    padding-left: auto;
+    text-align: center;
+}
+
+.description {
+    margin-bottom: 10px;
+}
+
+.input-section {
+    margin-bottom: 10px;
+}
+
+#qrcode-container {
+    margin-top: 10px;
+}
